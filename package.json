@@ -1,0 +1,13 @@
+{
+  "name": "repro-denoland-deno-23869",
+  "version": "1.0.0",
+  "author": "Yuichi Goto",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "effect": "^3.4.5"
+  },
+  "scripts": {
+    "typecheck": "deno check src/main.ts"
+  }
+}
